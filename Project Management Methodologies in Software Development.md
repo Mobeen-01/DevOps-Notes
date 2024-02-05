@@ -1,6 +1,6 @@
 # **Project Management Methodologies in Software Development**
 
-![Alt Text](https://raw.githubusercontent.com/Mobeen-01/Devops-Images/master/project-types.webp)
+![Alt Text](https://github.com/Mobeen-01/Devops-Images/blob/master/project-types.jpg)
 
 # 1. Waterfall:
 In the software development life cycle (SDLC) waterfall model, each set or stage of tasks should be finished before the next stage can begin. In waterfall project development, this is done to keep the project stages from overlapping.
