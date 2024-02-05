@@ -18,10 +18,11 @@ In project management, agile methodology is defined as a process by which a team
 Each smaller task is passed through the 4 phases i-e plan, design, build, test.
 
 # 3. Scrum
-Scrum is a subset of the agile approach. It is a framework used for project management that prioritizes accountability, teamwork, and iterative progress in order to achieve a clear goal. The scrum method is based on a simple premise: begin with what is easily seen or known. Once you’ve done that, you can then start tracking progress and making changes as needed.
+Scrum is a subset of the agile approach. Other methodologies, such as Kanban or Extreme Programming (XP), also fall under the Agile umbrella but have different practices and approaches.
+The scrum method is based on a simple premise: begin with what is easily seen or known. Once you’ve done that, you can then start tracking progress and making changes as needed.
+In essence, Agile is the overarching philosophy that guides the software development process, while Scrum is a specific framework that operationalizes Agile principles into practical methods for teams to follow.
 
 There are three pillars to remember when using the scrum framework: adaptation, inspection, and transparency.
-
 
   - **Framework within Agile:** Scrum is a specific framework within the Agile methodology. It defines roles (Scrum Master, Product Owner, and Team), events (Sprint, Sprint Review, Sprint Retrospective), and artifacts (Product Backlog, Sprint Backlog, Increment).
   - **Time-Boxed Iterations:** Work is organized into time-boxed iterations called Sprints, usually 2-4 weeks long. At the end of each Sprint, a potentially shippable product increment is delivered.
