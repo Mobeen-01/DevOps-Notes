@@ -1,6 +1,6 @@
 # **Project Management Methodologies in Software Development**
 
-# 1. Waterfall:
+1. Waterfall:
 In the software development life cycle (SDLC) waterfall model, each set or stage of tasks should be finished before the next stage can begin. In waterfall project development, this is done to keep the project stages from overlapping.
 
   The waterfall approach got its name because it’s specifically designed to flow in one direction (downwards) just like a waterfall.  Its stages include analysis, initiation, testing, design, construction, deployment, maintenance, and testing.
@@ -9,7 +9,7 @@ In the software development life cycle (SDLC) waterfall model, each set or stage
  
 It requires much time to deliver project.
  
-# 2. Agile:
+2. Agile:
 
 In project management, agile methodology is defined as a process by which a team breaks up a particular project into multiple stages. This methodology also involves constant collaboration with major stakeholders and constant iteration and improvement at each stage. The agile methodology starts with clients discussing the purpose of the end product and what kind of problem it will solve. Through this, the customer's expectations of the team handling the project is made clear.
 
